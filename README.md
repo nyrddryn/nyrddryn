@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
 #### Skill in ML/AI
-![Python](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Tensorflow](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
-![Pytorch](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![Flask](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![Django](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pytorch](https://camo.githubusercontent.com/62e3a1581ab9efd2c5e72694f2dc18edf46f59825afc192741e7dee22c97f615/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5079546f72636826636f6c6f723d454534433243266c6f676f3d5079546f726368266c6f676f436f6c6f723d464646464646266c6162656c3d)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
