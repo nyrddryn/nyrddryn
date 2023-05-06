@@ -2,16 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Hanoi University Sci adn Tech
+- 🔭 I’m currently working on Hanoi University Sci and Tech
 - 🌱 I’m currently learning Machine learning and Data Science
 - 📫 How to reach me: hoang.cm462@gmail.com
 - ⚡ Fun fact: 夢見ることができれば、それは実現できる
-### My Tech Stack
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Rancher](http://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=ffffff)
-![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
-
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -42,3 +36,4 @@ Here are some ideas to get you started:
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyrddryn&" alt="nyrddryn" /></p>
